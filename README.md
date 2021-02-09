@@ -15,23 +15,23 @@
 
 🧑‍💻 기술 Stack
 
-HTML5
+- HTML5
 
-Sass(SCSS)
+- Sass(SCSS)
 
-Javascript
+- Javascript
 
-React.js
+- React.js
 
-React-Router
+- React-Router
 
 
 👨‍👨‍👦 협업 Tool
 
-slack
+- slack
 
-git & github
+- git & github
 
-trello
+- trello
 
-git / github
+- git / github
