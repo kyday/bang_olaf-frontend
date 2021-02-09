@@ -4,7 +4,6 @@
 * Frontend : 정재윤, 김기열, 정선미
 
 
-!youtube[1ovIWBEEicg]
 
 🤔 프로젝트 소개
 
